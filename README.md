@@ -1,116 +1,203 @@
 <div align="center">
 
-# 👋 Tharanga
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=200&section=header&text=Tharanga&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Full-Stack%20Architect%20|%20Mobile%20Innovator&descAlignY=55&descSize=20)
 
-### Software Engineer | Full-Stack Architect | Mobile Innovator
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+mobile+applications;Architecting+robust+backend+systems;Creating+seamless+user+experiences)](https://git.io/typing-svg)
 
-*Crafting elegant solutions through code*
-
-[![Profile Views](https://komarev.com/ghpvc/?username=TharangaJ123&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/TharangaJ123)
+[![Profile Views](https://komarev.com/ghpvc/?username=TharangaJ123&label=Profile%20Views&color=6366F1&style=for-the-badge)](https://github.com/TharangaJ123)
 
 </div>
 
 ---
 
-## 🎯 About
-
-Detail-oriented software engineering student with a passion for building scalable, high-performance applications. I specialize in architecting robust backend systems and creating seamless cross-platform mobile experiences that users love.
+## 👨‍💻 About Me
 
 ```typescript
 const tharanga = {
+    role: "Full-Stack & Mobile Developer",
     location: "Colombo, Sri Lanka 🇱🇰",
-    focus: ["Mobile Development", "Full-Stack Architecture", "Cloud Solutions"],
-    currentlyLearning: ["Serverless Architectures", "Advanced Mobile Patterns"],
-    funFact: "I pursue perfection, knowing it's the journey that matters",
-    pronouns: "He/Him/His"
+    education: "Software Engineering Student",
+    expertise: ["Mobile Development", "Backend Architecture", "Cloud Solutions"],
+    currentFocus: ["Serverless Architectures", "Advanced Mobile Patterns", "Microservices"],
+    openTo: "Innovative Projects & Collaborations",
+    contact: "chathuratharanga076@gmail.com"
 };
 ```
 
+> 🎯 **Mission:** Crafting elegant, scalable solutions that solve real-world problems through clean code and innovative thinking.
+
 ---
 
-## 💼 Tech Arsenal
+## 🚀 Core Competencies
 
+<div align="center">
+
+### 📱 Mobile Development Excellence
 <table>
 <tr>
-<td valign="top" width="33%">
-
-### 📱 Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android" />
+<br><strong>Native Android</strong>
+<br><sub>Kotlin • XML • Jetpack</sub>
 </td>
-<td valign="top" width="33%">
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
+<br><strong>React Native</strong>
+<br><sub>Cross-Platform • Performance</sub>
 </td>
-<td valign="top" width="33%">
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br><strong>Firebase</strong>
+<br><sub>Auth • Realtime DB • Cloud</sub>
 </td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### 🚀 DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="API" />
+<br><strong>API Integration</strong>
+<br><sub>REST • GraphQL</sub>
 </td>
 </tr>
 </table>
 
+### 🎨 Frontend & UI Development
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br><strong>React.js</strong>
+<br><sub>Hooks • Context</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br><strong>Next.js</strong>
+<br><sub>SSR • SSG</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br><strong>Tailwind CSS</strong>
+<br><sub>Responsive Design</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="MUI" />
+<br><strong>Material UI</strong>
+<br><sub>Component Library</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br><strong>JavaScript</strong>
+<br><sub>ES6+ • TypeScript</sub>
+</td>
+</tr>
+</table>
+
+### ⚙️ Backend & Server Development
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br><strong>Node.js</strong>
+<br><sub>Express • REST</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+<br><strong>Flask</strong>
+<br><sub>Python APIs</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+<br><strong>Spring Boot</strong>
+<br><sub>Java Enterprise</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+<br><strong>ASP.NET</strong>
+<br><sub>C# Framework</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br><strong>Python</strong>
+<br><sub>Backend Logic</sub>
+</td>
+</tr>
+</table>
+
+### 🗄️ Database & DevOps
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+<br><sub>NoSQL • Aggregation</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br><strong>MySQL</strong>
+<br><sub>Relational DB</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br><strong>Docker</strong>
+<br><sub>Containerization</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+<br><strong>Kubernetes</strong>
+<br><sub>Orchestration</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br><strong>Git</strong>
+<br><sub>Version Control</sub>
+</td>
+</tr>
+</table>
+
+### 💻 Programming Languages
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+<br><strong>Kotlin</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br><strong>C++</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+<br><strong>C#</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+<br><strong>PHP</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br><strong>JavaScript</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
-## 🎯 Core Competencies
+## 💡 What Sets Me Apart
 
-```mermaid
-mindmap
-  root((Tharanga))
-    Mobile Development
-      Native Android
-      React Native
-      Cross-Platform
-    Backend Engineering
-      REST APIs
-      Microservices
-      MERN Stack
-    Cloud & DevOps
-      Firebase
-      Docker
-      Kubernetes
-    Architecture
-      Scalable Systems
-      Clean Code
-      Best Practices
-```
+<div align="center">
+
+| 🎯 **Expertise** | 📊 **Impact** |
+|:---|:---|
+| **Mobile-First Architecture** | Building native Android apps with Kotlin and cross-platform solutions with React Native |
+| **Full-Stack Mastery** | Proficient in MERN stack, Python/Flask, and Spring Boot for scalable REST APIs |
+| **Cloud Integration** | Extensive experience with Firebase for real-time databases, authentication, and hosting |
+| **Clean Code Advocate** | Writing maintainable, well-documented code following industry best practices |
+| **Performance Optimization** | Ensuring smooth user experiences with optimized rendering and efficient state management |
+
+</div>
 
 ---
 
@@ -118,34 +205,59 @@ mindmap
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TharangaJ123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7F52FF&icon_color=7F52FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharangaJ123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F52FF"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TharangaJ123&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=818CF8&text_color=c9d1d9&bg_color=0d1117" alt="Tharanga github stats" /> 
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharangaJ123&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TharangaJ123&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F52FF&ring=7F52FF&fire=FF6D00&currStreakLabel=7F52FF)](https://github.com/TharangaJ123)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TharangaJ123&theme=dark&hide_border=true&background=0D1117&stroke=6366F1&ring=818CF8&fire=FF6B6B&currStreakLabel=818CF8&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9)](https://github.com/TharangaJ123)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TharangaJ123&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=818CF8&point=c9d1d9&area_color=6366F1&title_color=6366F1&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## 🌟 What I'm Up To
+## 🎯 Current Focus
 
-- 🔨 **Building:** Advanced mobile applications with cutting-edge features
-- 🌱 **Learning:** Serverless architectures and cloud-native development
-- 🤝 **Open To:** Collaborating on innovative mobile and web projects
-- 💡 **Exploring:** AI integration in mobile applications
+```javascript
+const currentGoals = {
+    learning: [
+        "Advanced Serverless Architectures",
+        "Microservices Design Patterns",
+        "AI/ML Integration in Mobile Apps"
+    ],
+    building: [
+        "High-performance mobile applications",
+        "Scalable backend systems",
+        "Cloud-native solutions"
+    ],
+    exploring: [
+        "Web3 Technologies",
+        "Edge Computing",
+        "Real-time Data Processing"
+    ]
+};
+```
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-chathuratharanga076@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chathuratharanga076@gmail.com)
+[![Email](https://img.shields.io/badge/Email-chathuratharanga076@gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chathuratharanga076@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-TharangaJ123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TharangaJ123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+**Open to:** Freelance Projects • Open Source Collaboration • Full-time Opportunities
 
 </div>
 
@@ -153,8 +265,10 @@ mindmap
 
 <div align="center">
 
-### 💭 *"Striving for excellence in every line of code"*
+### 💭 *"Perfection is not attainable, but if we chase perfection, we can catch excellence."*
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
+### 🏆 Always Learning | Always Building | Always Improving
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=120&section=footer)
 
 </div>
