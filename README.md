@@ -201,30 +201,45 @@ const tharanga = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<a href="https://github.com/TharangaJ123">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TharangaJ123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=818CF8&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TharangaJ123&layout=compact&langs_count=8&theme=algolia&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117"/>
-</a>
-
-</div>
-
-<div align="center">
-  
-<a href="https://github.com/TharangaJ123">
-  <img src="https://streak-stats.demolab.com/?user=TharangaJ123&theme=algolia&hide_border=true&background=0D1117&stroke=6366F1&ring=818CF8&fire=FF6B6B&currStreakLabel=818CF8" alt="GitHub Streak Stats"/>
-</a>
-
-</div>
+## 📊 GitHub Metrics
 
 <div align="center">
 
-<a href="https://github.com/TharangaJ123">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TharangaJ123&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=818CF8&point=c9d1d9&area_color=6366F1&title_color=6366F1&area=true&hide_border=true"/>
-</a>
+### 🔥 Contribution Stats
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TharangaJ123&theme=github_dark" alt="Contribution Graph"/>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TharangaJ123&theme=github_dark" alt="Top Languages by Repo"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TharangaJ123&theme=github_dark" alt="Top Languages by Commit"/>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TharangaJ123&theme=github_dark" alt="Stats"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TharangaJ123&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+</td>
+</tr>
+</table>
+
+### 📈 Performance Overview
+
+![](https://raw.githubusercontent.com/TharangaJ123/TharangaJ123/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
