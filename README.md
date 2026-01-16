@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=200&section=header&text=Tharanga&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Full-Stack%20Architect%20|%20Mobile%20Innovator&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=250&section=header&text=Tharanga&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full-Stack%20Architect%20|%20Mobile%20Innovator&descAlignY=60&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+mobile+applications;Architecting+robust+backend+systems;Creating+seamless+user+experiences)](https://git.io/typing-svg)
 
